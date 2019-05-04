@@ -1,5 +1,5 @@
 
-TITLE: 
+TITLE: sanjeev
 Tasty - 100% Fully Responsive Free HTML5 Bootstrap Template for Restaurant
 
 AUTHOR:
@@ -57,4 +57,8 @@ http://markdalgleish.com/projects/stellar.js/
 Demo Images:
 http://unsplash.com
 
+<<<<<<< HEAD
 update2
+=======
+update1
+>>>>>>> 7bdff1fee00a137913250ca3c976127624b655db
